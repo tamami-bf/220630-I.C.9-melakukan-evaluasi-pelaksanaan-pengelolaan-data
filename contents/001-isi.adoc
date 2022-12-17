@@ -1,0 +1,56 @@
+
+== Latar Belakang
+
+Kondisi pelayanan Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (PBB-P2) yang selalu ada dan relatif bertambah di tiap tahunnya berimbas kepada beban perekaman data yang semakin bertambah, bila tidak diantisipasi dan dipikirkan solusinya, maka akan berimbas kepada mundurnya proses penetapan PBB-P2 untuk tahun berikutnya.
+
+== Tujuan
+
+Tujuan dari evaluasi ini untuk melihat komposisi perekaman data yang terjadi sebagai proses yang harus dijalani untuk mencapai terselesaikannya seluruh pelayanan PBB-P2 di tahun berjalan.
+
+== Cakupan
+
+Data yang digunakan dalam evaluasi ini hanya berdasarkan data yang ada pada basis data SISMIOP di sistem basis data Oracle, sehingga kebijakan-kebijakan yang tidak terrekam dalam aplikasi ini diabaikan.
+
+== Periode Pelaksanaan Evaluasi
+
+Periode pelaksanaan evaluasi ini ada pada semester I Tahun 2022.
+
+== Analisa Proses Pengelolaan Data Yang Sedang Berjalan
+
+Komposisi Kecamatan yang melakukan permohonan pelayanan PBB-P2 pada Semester I Tahun 2022 adalah seperti pada gambar grafik berikut :
+
+.Komposisi Pengajuan Pelayanan Per Kecamatan
+image::001.png[]
+
+Dari grafik di atas menunjukkan bahwa komposisi 3 Kecamatan yang mengajukan pelayanan terbesar ada di Bumiayu, Brebes, dan Sirampog. Data ini menunjukkan bahwa di ketiga Kecamatan tersebut terjadi proses pengajuan perubahan data yang paling banyak di Semester I, data ini masih harus dibandingkan dengan terjadinya perubahan pada proses pengajuan BPHTB, apakah pergerakannya linear atau mengalami jeda waktu.
+
+Jika grafik kita lihat dari komposisi perekam data, grafiknya akan terlihat seperti berikut :
+
+.Komposisi Perekam Data
+image::002.png[]
+
+Terlihat bahwa perekam data terbanyak ada di mas Bagus, mas Gias, dan mba Hanum, dimana data sebanyak 17.184 berkas dapat diselesaikan dengan jumlah perekam data sebanyak 14 orang.
+
+Bila diprediksi dengan menggunakan metode _least square_, maka dalam 6 bulan kedepan, jumlah berkas pelayanan yang diterima dapat diprediksi seperti berikut :
+
+.Data Prediksi Semester II
+[options="header"]
+|===================
+|Bulan |Jumlah Pelayanan
+|Juli |1802
+|Agustus |1972
+|September |2141
+|Oktober |2311
+|November |2480
+|Desember |2650
+|===================
+
+Dengan jumlah prediksi seperti itu, bila rata-rata tiap perekam dalam satu semester dapat mengerjakan 1.228, maka akan dibutuhkan 10 sampai 11 orang untuk menyelesaikan perekaman berkas pelayanan pada Semester II.
+
+== Pembahasan Evaluasi dan Kinerja Pengelolaan Data Yang Sedang Berjalan
+
+Dari hasil analisa proses pengelolaan data yang sedang berjalan, kita mendapatkan informasi bahwa di 3 Kecamatan tersebut terdapat banyak perubahan data yang dimungkinkan dapat menjadi target untuk verifikasi data peta kedepannya, sedangkan dari jumlah perekaman data untuk menyelesaikan berkas pelayanan sejumlah 16.065 berkas, dengan jumlah petugas perekam 14 orang, mampu menyelesaikan perekaman data sejumlah 17.184 berkas, atau lebih dari 100%, dengan jumlah perekam data 10 sampai 11 orang akan mampu menyelesaikan berkas permohonan Semester 2 dengan asumsi prediksi berkas pelayanan yang masuk sejumlah analisa di atas.
+
+== Kesimpulan, Saran, dan Rekomendasi Perbaikan
+
+Secara total keseluruh jumlah perekam data yang dibutuhkan sekitar 10 - 11 orang untuk menyelesaikan berkas di tahun 2022, dengan jumlah perekam data yang ada cukup untuk menyelesaikannya perekaman sampai dengan akhir Desember 2022.
